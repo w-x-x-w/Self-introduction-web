@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>无标题文档</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#big {
+	background-image: url(../images/11.jpg);
+	height: 1000px;
+	width: 100%;
+	background-repeat: no-repeat;
+}
+body {
+	margin: 0px;
+}
+#first {
+	height: 800px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#top1 {
+	height: 60px;
+	width: 1000px;
+	font-size: 36px;
+	text-align: center;
+}
+.aaa {
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+	font-size: 26px;
+}
+#big #first #top1 .aaa {
+	font-size: 55px;
+	font-weight: bold;
+}
+#left {
+	color: #FFF;
+	float: left;
+	height: 640px;
+	width: 230px;
+}
+#right {
+	float: left;
+	width: 770px;
+	font-size: 25px;
+	color: #FFF;
+	margin-top: auto;
+	margin-left: auto;
+	font-weight: bolder;
+}
+#menu {
+	text-align: center;
+	height: 60px;
+	width: 100px;
+	margin-left: auto;
+	font-size: 50px;
+	color: #FFF;
+	margin-right: auto;
+}
+#menu1 {
+	height: 170px;
+	width: 210px;
+	margin-left: auto;
+	margin-right: auto;
+	visibility: hidden;
+}
+#big #first #left #menu1 table tr td {
+	font-size: 45px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+	cursor: pointer;
+}
+#big #first #left #menu1 table tr td font {
+	display: block;
+	margin: 0px;
+	height: 50px;
+	width: 200px;
+}
+#big #first #left #menu1 table tr td font a {
+	text-decoration: none;
+}
+#fanhui {
+	text-decoration: none;
+	text-align: center;
+	float: left;
+	height: 40px;
+	width: 100px;
+	font-weight: bold;
+	margin-left: 60px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	color: #FFF;
+}
+a {
+	color: #FFF;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 26px;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+	background-color: #FFF;
+}
+</style>
+<script type="text/javascript">
+function MM_showHideLayers() { //v9.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body onload="MM_showHideLayers('right','','show')">
+<div id="big">
+  <div id="first">
+    <div id="top1">
+      <div id="fanhui"><a href="../index.html">返回</a></div>
+    <span class="aaa"><font face=华文行楷>诗的世界</font></span></div>
+    <div id="left">
+      <div id="menu" onmousemove="MM_showHideLayers('menu1','','show')" onmouseout="MM_showHideLayers('menu1','','hide')">目录</div>
+      <div id="menu1" onmousemove="MM_showHideLayers('menu1','','show')" onmouseout="MM_showHideLayers('menu1','','hide')">
+        <table width="203" border="0" align="center">
+          <tr>
+            <td width="197"><font face=华文行楷><a href="../shi.html" class="aaa">《国度》</a></font></td>
+          </tr>
+          <tr>
+            <td><a href="../shi1.html" class="aaa"><font face=华文行楷>《永远的缺口》</font></a></td>
+          </tr>
+          <tr>
+            <td><a href="../shi2.html" class="aaa"><font face=华文行楷>《在人间》</font></a></td>
+          </tr>
+        </table>
+      </div>
+      
+    </div>
+    <!-- TemplateBeginEditable name="EditRegion3" -->
+    <div id="right">
+      <table width="750" border="0" align="center">
+        <tr>
+         <td height="623"> <font face=华文行楷><p>《国度》 </p>
+            <p> 翻开厚重的古籍， </p>
+            <p>清新伴着尘土的气息；</p>
+            <p> 如沐沉睡的乐音， </p>
+            <p>挠破虚无的沉寂； </p>
+            <p>字里鲜活的灵动， </p>
+            <p>荡涤着孤独远去；</p>
+            <p> 成为过去的时空，</p>
+            <p> 正上演壮阔的史诗；</p>
+            <p> 缠绵清雅的吐诉， </p>
+            <p>令我如此神往；</p>
+            <p> 楚楚动人的模样，</p>
+            <p> 抑或明媚的芬芳；</p>
+            <p> 难道真不是幻想， </p>
+            <p>那关于爱情的篇章； </p>
+            <p>遥远的爱的国度， </p>
+            <p>我何时才能入驻～</p></font></td>
+        </tr>
+      </table>
+    </div>
+    <!-- TemplateEndEditable --></div>
+</div>
+</body>
+</html>
